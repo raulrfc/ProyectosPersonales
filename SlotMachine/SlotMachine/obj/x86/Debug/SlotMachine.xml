@@ -1,0 +1,80 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SlotMachine
+</name>
+</assembly>
+<members>
+<member name="P:SlotMachine.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.cereza">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.Lever_Marianne_Gagnon_206547513">
+	<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.limon">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.limon1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.officeBack">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.presentGold">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.presentRed">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.Skin">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.skull">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.slot">
+	<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.slot_payoff">
+	<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.spin">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.spin2">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SlotMachine.My.Resources.Resources.win">
+	<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member><member name="T:SlotMachine.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+</members>
+</doc>
